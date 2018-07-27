@@ -1,5 +1,5 @@
 {
-    "name": "hoaexpress/htmlpurifier",
+    "name": "sparksuite/htmlpurifier",
     "description": "Standards compliant HTML filter written in PHP",
     "type": "library",
     "keywords": ["html"],
